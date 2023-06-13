@@ -1,0 +1,12 @@
+# .gitignore 
+# manage.py이 있는 프로젝트 최상단에 둘것
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media
+my_settings.py
